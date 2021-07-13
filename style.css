@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+canvas{
+    width: 512;
+    height: 512;
+}
